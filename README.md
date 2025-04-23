@@ -1,1 +1,1 @@
-This is my personal portfolio website. It was an enjoyable and rewarding task, especially since it marked my very first introduction to HTML, CSS, and JavaScript.
+This is my personal portfolio website, which I created as part of a fun and engaging task. It was my very first experience working with web development technologies such as HTML, CSS, and JavaScript. Through this project, I learned the basics of designing and building a website from scratch, and it gave me a solid foundation to continue growing my skills in front-end development.
